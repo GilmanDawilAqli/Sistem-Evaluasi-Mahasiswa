@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Sistem E.31b5c966\\x64\\Debug\\Main.obj",
+            "outputs": [
+                "Sistem E.31b5c966\\x64\\Debug\\Main.cpp.obj.dt.module.json",
+                "Sistem E.31b5c966\\x64\\Debug\\Main.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
